@@ -1,6 +1,6 @@
 # scms #
 
-A raw content management system based on Templates & MySQL Database. Usable for small websites that doesn't has a lot of Content. Latest `master` running at [www.exigem.com/gen](http://www.exigem.com/scms/)
+A raw content management system based on Templates & MySQL Database. Usable for small websites that doesn't has a lot of Content. Latest `master` running at [www.exigem.com/scms](http://www.exigem.com/scms/)
 
 
 ## Dependencies ##
